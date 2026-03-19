@@ -1,16 +1,14 @@
 #!/usr/bin/env bash
 #
 # ╔══════════════════════════════════════════════════════════════════╗
-# ║                OpenClaw CTL / MoltBot 管理脚本                  ║
+# ║                      OpenClaw CLI 管理脚本                        ║
 # ╠══════════════════════════════════════════════════════════════════╣
-# ║  作者     GitHub  : by Joey                                     ║
-# ║           YouTube : @joeyblog                                   ║
-# ║           Telegram: https://t.me/+ft-zI76oovgwNmRh             ║
+#                       Alpha Fork Form Joey         
 # ╠══════════════════════════════════════════════════════════════════╣
-# ║  致谢 / 引用                                                    ║
-# ║  · 原始脚本基础来自 kejilion（@kejilion）                       ║
-# ║  · CLIProxyAPI 安装器来自 cliproxyapi-installer                 ║
-# ║    github.com/brokechubb/cliproxyapi-installer                  ║
+# ║  致谢 / 引用                                                      ║
+# ║  · 原始脚本基础来自 kejilion（@kejilion）                           ║
+# ║  · CLIProxyAPI 安装器来自 cliproxyapi-installer                    ║
+# ║    github.com/brokechubb/cliproxyapi-installer                   ║
 # ╚══════════════════════════════════════════════════════════════════╝
 #
 : "${gl_hui:='\e[37m'}"
