@@ -55,7 +55,7 @@ Fork from Joey
 ### macOS / Linux
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/byJoey/openclawctl/main/openclaw.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Alphabytes-global/openclawctl/main/openclaw.sh)
 ```
 
 运行一次后，输入 `oc` 即可快速启动（脚本自动创建快捷方式）。
@@ -73,7 +73,7 @@ chmod +x openclaw.sh
 在 PowerShell 中运行：
 
 ```powershell
-powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/byJoey/openclawctl/main/openclaw.ps1 | iex"
+powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.com/Alphabytes-global/openclawctl/main/openclaw.ps1 | iex"
 ```
 
 运行一次后，新开 PowerShell 窗口输入 `oc` 即可快速启动。
@@ -81,7 +81,7 @@ powershell -ExecutionPolicy Bypass -Command "irm https://raw.githubusercontent.c
 或者下载到本地再运行：
 
 ```powershell
-Invoke-WebRequest -Uri https://raw.githubusercontent.com/byJoey/openclawctl/main/openclaw.ps1 -OutFile openclaw.ps1
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/Alphabytes-global/openclawctl/main/openclaw.ps1 -OutFile openclaw.ps1
 .\openclaw.ps1
 ```
 
